@@ -1,0 +1,18 @@
+cookietemple_version: '1.4.1 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: causalnormflow
+project_slug_no_hyphen: causalnormflow
+template_version: '2.1.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: antschum
+creator_github_username: antschum
+is_github_repo: true
+is_repo_private: false
+is_github_orga: false
+full_name: Antonia Schumacher
+email: schum.antonia@gmail.com
+project_name: causalnormflow
+project_short_description: Normalizing flows for causal discovery
+version: 0.1.0
+license: MIT
